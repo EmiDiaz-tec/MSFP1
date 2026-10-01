@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+David Emiliano Díaz de León Bernal \[C23211564]; l23211564@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
